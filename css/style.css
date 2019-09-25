@@ -1,13 +1,17 @@
 .container {
+	  margin: auto;
 	width: 800px;
-	text-shadow: 3px 0px 0px #000000;
+	text-shadow: 1px 10px 10px #000000;
 	padding-right: 50px;
 	padding-left: 50px;
 	font-family: 'Happy Monkey';
+	box-shadow: 5px 0 5px -5px #333, -5px 0 5px -5px #333;
+
 }
 
 p, h1{
 	color:  #707070;
+	text-align: center;
 }
 header{
 	text-align: center;
@@ -31,17 +35,19 @@ h3{
 li{
 	padding-bottom: 5px;
 	padding-top: 5px;
+	color: #707070;
 }
-.checked{
+span{
+	font-size: 25px;
 	color:  #F4B400;
 }
+.rating{
+	text-align: center;
+}
+
 
 footer{
 	text-align: center;
 }
-/*
-@font-face{
-	font-family: 'Happy Monkey';
-	<link href="https://fonts.googleapis.com/css?family=Happy+Monkey&display=swap" rel="stylesheet">
-}*/
+
 
