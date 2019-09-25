@@ -1,0 +1,100 @@
+h1 {
+    margin-left: 48vw;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    /*sets all the margin properties*/
+    padding: 0;
+    /*used to generate space around content*/
+    overflow: hidden;
+    /*whether to clip content or to add scrollbars */
+    
+    top: 0.5em;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+
+}
+
+#navbar {
+	width: 62vw;
+	height: 47px;
+	left: 275px;
+	position: absolute;
+	align-content: center;
+	
+	background-color: #F0F1F1;
+}
+
+#left{
+	margin-left: 219px;
+}
+
+#featurediv {
+	width: 60vw;
+	height: 17px;
+	left: 275px;
+	top: 150px;
+	position: absolute;
+	text-align: center;
+	padding: 15px;
+	
+	background-color: #F0F1F1;
+
+}
+
+.divs {
+	width: 250px;
+	height: 17px;
+	position: absolute;
+	text-align: center;
+	background-color: #F0F1F1;
+	padding: 8px;
+}
+
+#firstc {
+ top: 220px;
+ left: 275px;
+ padding: 10px;
+}
+#secondc {
+ top: 220px;
+ left: 556px;
+ margin-left: 10px;
+ padding: 10px;
+
+}
+#thirdc {
+ top: 220px;
+ left: 835px;
+ margin-left: 20px;
+ padding: 10px;
+}
+
+#copyrightimg {
+	height: 1%;
+	width: 1%;
+}
+
+#copyright {
+	width: 61vw;
+	height: 17px;
+	position: absolute;
+	text-align: center;
+	background-color: #F0F1F1;
+	padding: 8px;
+	top: 280px;
+	left: 275px;
+}

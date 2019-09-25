@@ -1,1 +1,34 @@
-	
+.list-item{
+	display: inline-block;
+	padding-top: 17px;
+}
+#navbar {
+	background-color: grey;
+	height: 50px;
+	width: 900px;
+}
+.features{
+	height: 50px;
+	background-color: grey;
+	width: 900px;
+}
+.features p{
+	padding-top: 17px;
+
+}
+.column{
+	width: 900px;
+}
+
+.columns p{
+	display: inline-block;
+	background-color: grey;
+	height: 50px;
+	width: 22%;
+	padding-top: 20px;
+}
+footer{
+	background-color: grey;
+	margin-top: 20px;
+		width: 900px;
+}
