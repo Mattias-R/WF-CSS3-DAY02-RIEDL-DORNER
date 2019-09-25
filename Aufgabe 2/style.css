@@ -21,10 +21,14 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: #464939;
 }
 
 p {
     margin: 0 0 10px;
+}
+h3{
+    font-size: 12px;
 }
 
 #container {
@@ -239,6 +243,25 @@ h3.archives span {
     color: #FFFFFF;
 }
 
+
 ul >li{
     font-size: 20px;
 }
+
+#participation{
+    background-color:  #747C3A;
+    color: white;
+}
+
+#explanation .danger{
+    color: brown;
+    font-weight: bold;
+}
+ul > li{
+    color: #525D21;
+    font-family: italic;
+}
+.years .strong{
+    color: #DD8804;
+}
+
