@@ -2,10 +2,12 @@
 body{
 	height: 2000px;
 }
+
 img {
   width: 50px;
 }
 #face {
+<<<<<<< HEAD
 
 position: absolute;
 top: 0px;
