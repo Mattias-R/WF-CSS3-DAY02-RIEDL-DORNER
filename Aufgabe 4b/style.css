@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  display: inline-block;
+  background-color: white;
+}
+nav{
+
+  background-color: red;
+}
+
+li {
+  float: left;
+}
+
+li a {display: block;
+  color: green;
+  padding-left: 10px;
+  
+
+}
+body{
+	  text-align: center;
+}
