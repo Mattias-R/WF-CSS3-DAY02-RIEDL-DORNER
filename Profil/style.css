@@ -1,0 +1,82 @@
+body{
+	margin:  0px;
+	padding: 0px;
+	font-family: "Droid Serif";
+
+}
+
+#logo{
+
+	background-color: #CD000C;
+	height: 90px;
+}
+#profilLogo{
+	padding-top: 10px;
+	padding-left: 40px;
+	margin: 0px;
+	font-size: 60px;
+	font-family: "Droid Serif";
+	color:  white;
+}
+#suche{
+	float: right;
+	margin-top: -60px;
+	margin-right: 50px;
+}
+#buttonsuche{
+	float: right;
+	margin-top: -59px;
+	margin-right: 55px;
+	background-color: white;
+	border-style: none;
+}
+ul.item{
+	margin-top: 1px;
+	padding: 0px;
+}
+.item-list{
+	display: inline-block;
+	padding-top: 7px;
+	width: 10.8%;
+	text-align: center;
+
+}
+.navbar{
+	background-color: #CD000C;
+	height: 30px;
+
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.item-list:hover{
+	background-color: #B10418;
+	padding-bottom: 5px;
+}
+.line{
+	width: 400px;
+	height: 400px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 10px;
+}
+iframe{
+	overflow: hidden;
+}
+.rowArticl p{
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 10px;
+	text-align: center;
+}
+footer{
+	background-color: #CD000C;
+	color: white;
+	font-size: 12px;
+	height: 40px;
+}
