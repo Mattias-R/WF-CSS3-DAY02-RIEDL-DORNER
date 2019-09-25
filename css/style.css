@@ -1,0 +1,47 @@
+.container {
+	width: 800px;
+	text-shadow: 3px 0px 0px #000000;
+	padding-right: 50px;
+	padding-left: 50px;
+	font-family: 'Happy Monkey';
+}
+
+p, h1{
+	color:  #707070;
+}
+header{
+	text-align: center;
+}
+
+h1{
+	color:  #DB0038;
+}
+h2 {
+	color:  #3998A3;
+}
+h3{
+	color: #474747
+}
+.hero{
+	background-color: #f4f4f4;
+	padding-bottom: 10px;
+	text-align: center;	
+}
+
+li{
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.checked{
+	color:  #F4B400;
+}
+
+footer{
+	text-align: center;
+}
+/*
+@font-face{
+	font-family: 'Happy Monkey';
+	<link href="https://fonts.googleapis.com/css?family=Happy+Monkey&display=swap" rel="stylesheet">
+}*/
+
